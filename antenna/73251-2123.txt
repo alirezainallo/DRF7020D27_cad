@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-08112019-129910";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Molex Straight 50Ω Edge Mount Bulkhead Fitting SMA Jack, Solder Termination";"";
+"TraceParts.InstanceId";"10-08112019-1299103TVQLALRI0Q6MWQRWW7T7HOUR";"";
+"TraceParts.PartTitle";"Molex Straight 50Ω Edge Mount Bulkhead Fitting SMA Jack, Solder Termination";"";
+"REFERENCE";"73251-2123";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/8006949?cm_mmc=en-ds-_-mcad-_-traceparts-_-8006949'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"8006949";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-08112019-129910";"";
